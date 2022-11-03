@@ -1464,7 +1464,7 @@
                 class="box-picture"
                 href="img/CuadrosRojosA.jpg"
                 itemprop="contentUrl"
-                data-size="4032x3024"
+                data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
