@@ -218,7 +218,7 @@
               >
                 <!-- Your picture -->
                 <img
-                  src="img/cafec.jpg"
+                  src="img/cafeC.jpg"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -309,13 +309,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Asthetic.jpg"
+                href="img/as.jpg"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Asthetic.jpg"
+                  src="img/as.jpg"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -383,7 +383,7 @@
               >
                 <!-- Your picture -->
                 <img
-                  src="img/rosac.jpg"
+                  src="img/rosaC.jpg"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
