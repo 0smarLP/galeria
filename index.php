@@ -176,13 +176,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/cafeB.jpg"
+                href="img/cafeB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/cafeB.jpg"
+                  src="img/cafeB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -212,13 +212,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/cafeC.jpg"
+                href="img/cafeC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/cafeC.jpg"
+                  src="img/cafeC.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -253,14 +253,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/cafeA.jpg"
+                href="img/cafeA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/cafeA.jpg"
+                  src="img/cafeA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -309,13 +309,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/as.jpg"
+                href="img/as.avif"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/as.jpg"
+                  src="img/as.avif"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -342,13 +342,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/rosaB.jpg"
+                href="img/rosaB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/rosaB.jpg"
+                  src="img/rosaB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -377,13 +377,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/rosaC.jpg"
+                href="img/rosaC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/rosaC.jpg"
+                  src="img/rosaC.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -418,14 +418,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/rosaA.jpg"
+                href="img/rosaA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/rosaA.jpg"
+                  src="img/rosaA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -473,13 +473,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.jpg"
+                href="img/Colores.avif"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.jpg"
+                  src="img/Colores.avif"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -506,13 +506,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/militarB.jpg"
+                href="img/militarB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/militarB.jpg"
+                  src="img/militarB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -541,13 +541,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/militarC.jpg"
+                href="img/militarC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/militarC.jpg"
+                  src="img/militarC.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -582,14 +582,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/militarA.jpg"
+                href="img/militarA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/militarA.jpg"
+                  src="img/militarA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -637,13 +637,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.jpg"
+                href="img/Colores.avif"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.jpg"
+                  src="img/Colores.avif"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -670,13 +670,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/lilaB.jpg"
+                href="img/lilaB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/lilaB.jpg"
+                  src="img/lilaB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -705,13 +705,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/lilaC.jpg"
+                href="img/lilaC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/lilaC.jpg"
+                  src="img/lilaC.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -746,14 +746,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/lilaA.jpg"
+                href="img/lilaA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/lilaA.jpg"
+                  src="img/lilaA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -802,13 +802,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.jpg"
+                href="img/Colores.avif"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.jpg"
+                  src="img/Colores.avif"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -835,13 +835,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/negroB.jpg"
+                href="img/negroB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/negroB.jpg"
+                  src="img/negroB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -870,13 +870,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/negroC.jpg"
+                href="img/negroC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/negroC.jpg"
+                  src="img/negroC.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -911,14 +911,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/negroA.jpg"
+                href="img/negroA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/negroA.jpg"
+                  src="img/negroA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -966,13 +966,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.jpg"
+                href="img/Colores.avif"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.jpg"
+                  src="img/Colores.avif"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -999,13 +999,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/caquiB.jpg"
+                href="img/caquiB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/caquiB.jpg"
+                  src="img/caquiB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -1034,13 +1034,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/caquiC.jpg"
+                href="img/caquiC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/caquiC.jpg"
+                  src="img/caquiC.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -1075,14 +1075,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/caquiA.jpg"
+                href="img/caquiA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/caquiA.jpg"
+                  src="img/caquiA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -1130,13 +1130,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.jpg"
+                href="img/Colores.avif"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.jpg"
+                  src="img/Colores.avif"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -1163,13 +1163,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/beigeB.jpg"
+                href="img/beigeB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/beigeB.jpg"
+                  src="img/beigeB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -1198,13 +1198,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/beigeC.jpg"
+                href="img/beigeC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/beigeC.jpg"
+                  src="img/beigeC.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -1239,14 +1239,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/beigeA.jpg"
+                href="img/beigeA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/beigeA.jpg"
+                  src="img/beigeA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -1295,13 +1295,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.jpg"
+                href="img/Colores.avif"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.jpg"
+                  src="img/Colores.avif"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -1328,13 +1328,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/FaldaRojaA.jpg"
+                href="img/FaldaRojaA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/FaldaRojaA.jpg"
+                  src="img/FaldaRojaA.avif"
                   itemprop="thumbnail"
                   alt="FALDA CONE"
                   class="img-responsive"
@@ -1363,13 +1363,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/FaldaRojaB.jpg"
+                href="img/FaldaRojaB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/FaldaRojaB.jpg"
+                  src="img/FaldaRojaB.avif"
                   itemprop="thumbnail"
                   alt="falda CONE"
                   class="img-responsive"
@@ -1405,14 +1405,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/FaldanegrC.jpg"
+                href="img/FaldanegrC.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/FaldanegrC.jpg"
+                  src="img/FaldanegrC.avif"
                   itemprop="thumbnail"
                   alt="falda CONE"
                   class="img-responsive"
@@ -1462,13 +1462,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/CuadrosRojosA.jpg"
+                href="img/CuadrosRojosA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/CuadrosRojosA.jpg"
+                  src="img/CuadrosRojosA.avif"
                   itemprop="thumbnail"
                   alt="chamarraCONE"
                   class="img-responsive"
@@ -1495,13 +1495,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/CuadrosRojosB.jpg"
+                href="img/CuadrosRojosB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/CuadrosRojosB.jpg"
+                  src="img/CuadrosRojosB.avif"
                   itemprop="thumbnail"
                   alt="chamarra CONE"
                   class="img-responsive"
@@ -1530,13 +1530,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/BikerGamuzaCafeA.jpg"
+                href="img/BikerGamuzaCafeA.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/BikerGamuzaCafeA.jpg"
+                  src="img/BikerGamuzaCafeA.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
@@ -1571,14 +1571,14 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/BikerGamuzaCafeB.jpg"
+                href="img/BikerGamuzaCafeB.avif"
                 itemprop="contentUrl"
                 data-size="3024x3024"
               >
               
                 <!-- Your picture -->
                 <img
-                  src="img/BikerGamuzaCafeB.jpg"
+                  src="img/BikerGamuzaCafeB.avif"
                   itemprop="thumbnail"
                   alt="chaleco CONE"
                   class="img-responsive"
