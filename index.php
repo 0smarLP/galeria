@@ -473,13 +473,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.avif"
+                href="img/Colores.jpg"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.avif"
+                  src="img/Colores.jpg"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -637,13 +637,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.avif"
+                href="img/Colores.jpg"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.avif"
+                  src="img/Colores.jpg"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -802,13 +802,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.avif"
+                href="img/Colores.jpg"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.avif"
+                  src="img/Colores.jpg"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -966,13 +966,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.avif"
+                href="img/Colores.jpg"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.avif"
+                  src="img/Colores.jpg"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -1130,13 +1130,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.avif"
+                href="img/Colores.jpg"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.avif"
+                  src="img/Colores.jpg"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
@@ -1295,13 +1295,13 @@
               <!-- Link to the picture and to open the gallery / Fill up well the data-size property -->
               <a
                 class="box-picture"
-                href="img/Colores.avif"
+                href="img/Colores.jpg"
                 itemprop="contentUrl"
                 data-size="4032x3024"
               >
                 <!-- Your picture -->
                 <img
-                  src="img/Colores.avif"
+                  src="img/Colores.jpg"
                   itemprop="thumbnail"
                   alt="Chaleco CONE"
                   class="img-responsive"
