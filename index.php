@@ -1632,7 +1632,7 @@
           55-6219-4005 <br />
           <i class="icon ion-ios-email"></i> <strong>Email :</strong>
           <a href="mailto:osmichan07@gmail.com" class="phone-mail-link"
-            >osmichan07@gmail.com</a
+            >contacto@cone.software</a
           >
           <br />
           <i class="icon ion-ios-location"></i> <strong>Ubicación:</strong> Ciudad de México, México
