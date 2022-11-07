@@ -317,10 +317,10 @@ a {
   transition: all 0.2s ease-in-out;
   cursor: pointer;
   text-decoration: none;
-  color: #ffffff;
+  color: #9e70e9;
 }
 a:hover {
-  color: #9e70e9;
+  color: #8951e2;
   text-decoration: none !important;
   outline: none !important;
 }
