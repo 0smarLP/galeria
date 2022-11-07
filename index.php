@@ -130,8 +130,8 @@
         <h4> 3 PZ  150 Pesos Mexicanos </h4>
         <h4> 6 PZ  130 Pesos Mexicanos  </h4>
         <br>
-        <h4>Publicación para venta en Linea</h4>
-       <h4> <a href="https://articulo.mercadolibre.com.mx/MLM-1594908385-chaleco-de-mujer-tipo-puff-_JM?searchVariation=175696920747#searchVariation=175696920747&position=2&search_layout=grid&type=item&tracking_id=1735a752-0318-4ea9-95fd-2d65af71b129"><b>Mercado Libre</b></a></h4>
+        <h4><b>Publicación para venta en Linea</b></h4>
+         <a  class="link-ml" href="https://articulo.mercadolibre.com.mx/MLM-1594908385-chaleco-de-mujer-tipo-puff-_JM?searchVariation=175696920747#searchVariation=175696920747&position=2&search_layout=grid&type=item&tracking_id=1735a752-0318-4ea9-95fd-2d65af71b129">Mercado Libre</a>
         <br>
         <h3><b>FORMAS DE ENTREGA<b> </h3>
         <br>

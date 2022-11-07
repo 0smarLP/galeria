@@ -330,7 +330,11 @@ a:focus {
   text-decoration: none !important;
   color: #712edd;
 }
-
+.link-ml {
+  font-size: 28px;
+  color: #712edd;
+  text-transform: uppercase;
+}
 button {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
