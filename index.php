@@ -131,24 +131,25 @@
         <h4> 6 PZ  130 Pesos Mexicanos  </h4>
         <br>
         <h4>Publicación para venta en Linea</h4>
-        <a href="https://articulo.mercadolibre.com.mx/MLM-1594908385-chaleco-de-mujer-tipo-puff-_JM?searchVariation=175696920747#searchVariation=175696920747&position=2&search_layout=grid&type=item&tracking_id=1735a752-0318-4ea9-95fd-2d65af71b129">Mercado Libre</a>
+        <a href="https://articulo.mercadolibre.com.mx/MLM-1594908385-chaleco-de-mujer-tipo-puff-_JM?searchVariation=175696920747#searchVariation=175696920747&position=2&search_layout=grid&type=item&tracking_id=1735a752-0318-4ea9-95fd-2d65af71b129"><b>Mercado Libre</b></a>
         <br>
-        <h3>FORMAS DE ENTREGA </h3>
-        <h4>MEXIBUS L3</h4>
+        <h3><b>FORMAS DE ENTREGA<b> </h3>
+        <br>
+        <h3><b>MEXIBUS L3</b></h4>
         <h4>Estación PATOS</h4>
         <h4>Estación PRESA</h4>
         <h4>Estación VILLADA</h4>
 
         <br>
 
-        <h4>METRO L9 Y L2 </h4>
+        <h3><b>METRO L9 Y L2 </b> </h3>
         <h4>Estación VILLA DE CORTEZ L2</h4>
         <h4>Estación CHABACANO L9 Y L2</h4>
         <h4>Estación PANTITLAN L9 Y L2</h4>
         <br>
 
         
-        <h4>HORARIOS </h4>
+        <h3><b>HORARIOS</b> </h3>
         <h4>LUNES A VIERNES <b>2:30 pm a 4:00 pm</b></h4>
         <h4><b>Consultar Horas por DM </b></h4>
 
